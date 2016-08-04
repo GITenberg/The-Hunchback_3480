@@ -1,0 +1,36 @@
+_repo: The-Hunchback_3480
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knowles, James Sheridan
+    aliases:
+    - Knowles, J. Sheridan (James Sheridan)
+    - Knowles, J. S. (James Sheridan)
+    - Knowles, Sheridan
+    birthdate: 1784
+    deathdate: 1862
+    gutenberg_agent_id: '1210'
+    url: http://www.gutenberg.org/2009/agents/1210
+    wikipedia: http://en.wikipedia.org/wiki/James_Sheridan_Knowles
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama (Comedy)'
+- GITenberg
+title: The Hunchback
+url: http://www.gutenberg.org/ebooks/3480
